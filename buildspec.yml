@@ -14,7 +14,7 @@ phases:
   pre_build:
     commands:
       # Change to the Terraform directory
-      - cd /iac-scripts
+      - cd iac-scripts
 
   build:
     commands:
